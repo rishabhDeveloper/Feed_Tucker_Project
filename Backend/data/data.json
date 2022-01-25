@@ -1,100 +1,104 @@
-[
+
     {
-        "id":1,
-        "name":"Fresh Vegetables",
+        "data":[
+            {
+            "id":1,
+            "name":"Fresh Vegetables",
+            "Category_items":[
+                {
+                    "cat_id":11,
+                    "item_Name":"onion",
+                    "Price":76.6,
+                    "quantity":5,
+                    "img":"image url"
+    
+                },
+                {
+                    "cat_id":12,
+                    "item_Name":"tomato",
+                    "Price":34.6,
+                    "quantity":10,
+                    "img":"image url"
+    
+                },
+                {
+                    "cat_id":13,
+                    "item_Name":"carrot",
+                    "Price":45.6,
+                    "quantity":10,
+                    "img":"image url"
+    
+                },
+                {
+                    "cat_id":14,
+                    "item_Name":"cucumber",
+                    "Price":9.6,
+                    "quantity":12,
+                    "img":"image url"
+    
+                },
+                {
+                    "cat_id":14,
+                    "item_Name":"mushroom",
+                    "Price":91.6,
+                    "quantity":12,
+                    "img":"image url"
+    
+                }
+                
+            ],
+            "category_id":"F1"
+    
+        },
+        {
+        "id":2,
+        "name":"Fresh Fruits",
         "Category_items":[
             {
-                "cat_id":11,
-                "item_Name":"onion",
-                "Price":76.6,
+                "cat_id":21,
+                "item_Name":"apple",
+                "Price":176.6,
                 "quantity":5,
                 "img":"image url"
-
+    
             },
             {
-                "cat_id":12,
-                "item_Name":"tomato",
+                "cat_id":22,
+                "item_Name":"orange",
                 "Price":34.6,
                 "quantity":10,
                 "img":"image url"
-
+    
             },
             {
-                "cat_id":13,
-                "item_Name":"carrot",
+                "cat_id":23,
+                "item_Name":"grapes",
                 "Price":45.6,
                 "quantity":10,
                 "img":"image url"
-
+    
             },
             {
-                "cat_id":14,
-                "item_Name":"cucumber",
+                "cat_id":24,
+                "item_Name":"papaya",
                 "Price":9.6,
                 "quantity":12,
                 "img":"image url"
-
+    
             },
             {
-                "cat_id":14,
-                "item_Name":"mushroom",
+                "cat_id":25,
+                "item_Name":"strawberry",
                 "Price":91.6,
                 "quantity":12,
                 "img":"image url"
-
+    
             }
             
         ],
-        "category_id":"F1"
-
-    },
-    {
-    "id":2,
-    "name":"Fresh Fruits",
-    "Category_items":[
-        {
-            "cat_id":21,
-            "item_Name":"apple",
-            "Price":176.6,
-            "quantity":5,
-            "img":"image url"
-
-        },
-        {
-            "cat_id":22,
-            "item_Name":"orange",
-            "Price":34.6,
-            "quantity":10,
-            "img":"image url"
-
-        },
-        {
-            "cat_id":23,
-            "item_Name":"grapes",
-            "Price":45.6,
-            "quantity":10,
-            "img":"image url"
-
-        },
-        {
-            "cat_id":24,
-            "item_Name":"papaya",
-            "Price":9.6,
-            "quantity":12,
-            "img":"image url"
-
-        },
-        {
-            "cat_id":25,
-            "item_Name":"strawberry",
-            "Price":91.6,
-            "quantity":12,
-            "img":"image url"
-
-        }
-        
-    ],
-    "category_id":"F2"
+        "category_id":"F2"
+    }
+        ]
+       
 }
     
-]
