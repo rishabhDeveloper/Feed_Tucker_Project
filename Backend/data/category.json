@@ -1,46 +1,51 @@
-[
-    {
-        "id":1,
-        "name":"Fruits and Vegitables"
-    },
-    {
-        "id":2,
-        "name":"Foodgrains, oils and masala"
-    },
-    {
-        "id":3,
-        "name":"Bakery Cakes and Dairy"
-    },
-    {
-        "id":4,
-        "name":"Snacks and Branded Foods"
-    },
-    {
-        "id":5,
-        "name":"Beauty and Hygiene"
-    },
-    {
-        "id":6,
-        "name":"Cleaning and Household"
-    },
-    {
-        "id":7,
-        "name":"Kitchen, Garden & Pets"
-    },
-    {
-        "id":8,
-        "name":"Eggs,Meat & Fish"
-    },
+{
+    "category":[
+
+        {
+            "id":1,
+            "name":"Fruits and Vegitables"
+        },
+        {
+            "id":2,
+            "name":"Foodgrains, oils and masala"
+        },
+        {
+            "id":3,
+            "name":"Bakery Cakes and Dairy"
+        },
+        {
+            "id":4,
+            "name":"Snacks and Branded Foods"
+        },
+        {
+            "id":5,
+            "name":"Beauty and Hygiene"
+        },
+        {
+            "id":6,
+            "name":"Cleaning and Household"
+        },
+        {
+            "id":7,
+            "name":"Kitchen, Garden & Pets"
+        },
+        {
+            "id":8,
+            "name":"Eggs,Meat & Fish"
+        },
+            
+        {
+            "id":9,
+            "name":"Gourmet and World Food"
+        },
+        {
+            "id":10,
+            "name":"Baby Care"
+        }
+       
+            
         
-    {
-        "id":9,
-        "name":"Gourmet and World Food"
-    },
-    {
-        "id":10,
-        "name":"Baby Care"
-    }
-   
-        
-    
-]
+    ]
+
+}
+  
