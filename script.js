@@ -6,6 +6,10 @@ menu.addEventListener('click', () =>{
     menu.classList.toggle('fa-times');
     navbar.classList.toggle('active');
 });
+function changeMode(){
+    var mybody = document.body;
+    mybody.classList.toggle("mydark")
+}
 
 window.onscroll = () =>{
     menu.classList.remove('fa-times');
